@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim:
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades em **Java com Spring Boot** e **React.js**.
+- 🔭 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades.
 - 🌱 Estou sempre aprendendo e explorando novas tecnologias do ecossistema front-end e back-end.
 - 💬 Fique à vontade para me contatar sobre **oportunidades de trabalho, projetos ou apenas para trocar uma ideia**.
 - 📫 Como me encontrar: **eder.pontes2014@gmail.com**
