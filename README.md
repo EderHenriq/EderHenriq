@@ -4,11 +4,7 @@
   <h3 align="center">Um desenvolvedor Full-Stack apaixonado por criar soluções completas e inovadoras.</h3>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EderHenriq&label=Profile%20views&color=8A2BE2&style=flat" alt="contador de visitas" />
-</div>
 
----
 
 ### 👨‍💻 Sobre Mim:
 
