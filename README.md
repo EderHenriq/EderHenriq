@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Olá 👋, sou o Eder Pontes</h1>
-  <h3 align="center">Um desenvolvedor Full-Stack apaixonado por criar soluções completas e inovadoras.</h3>
+  <h3 align="center">Um desenvolvedor Full-Stack movido por criar soluções completas e inovadoras.</h3>
 </div>
 
 
 
 ### 👨‍💻 Sobre Mim:
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades.
-- 🌱 Estou sempre aprendendo e explorando novas tecnologias do ecossistema front-end e back-end.
-- 💬 Fique à vontade para me contatar sobre **oportunidades de trabalho, projetos ou apenas para trocar uma ideia**.
-- 📫 Como me encontrar: **eder.pontes2014@gmail.com**
+-  Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades.
+-  Estou sempre aprendendo e explorando novas tecnologias do ecossistema front-end e back-end.
+-  Fique à vontade para me contatar sobre **oportunidades de trabalho, projetos ou apenas para trocar uma ideia**.
+-  Como me encontrar: **eder.pontes2014@gmail.com**
 
 ---
 
