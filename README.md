@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Olá 👋, sou o Eder Pontes</h1>
+  <h1 align="center">Olá, sou o Eder Pontes</h1>
   <h3 align="center">Um desenvolvedor Full-Stack movido por criar soluções completas e inovadoras.</h3>
 </div>
 
