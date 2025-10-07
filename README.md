@@ -98,6 +98,12 @@
       </a>
       <br>IntelliJ
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
   </tr>
 </table>
 
