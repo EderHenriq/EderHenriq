@@ -113,8 +113,8 @@
 
 <div align="center">
   <a href="https://github.com/EderHenriq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderHenriq&show_icons=true&theme=radical&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderHenriq&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderHenriq&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub de Eder" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EderHenriq&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas por Eder" />
   </a>
 </div>
 
